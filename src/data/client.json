@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Acme Corporation",
+    "contact": {
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@acmecorp.com",
+      "phone": "+1-202-555-0174"
+    },
+    "address": {
+      "street": "123 Market Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94103"
+    },
+    "industry": "Technology",
+    "status": "Active",
+    "createdAt": "2023-10-12T09:45:00Z"
+  },
+  {
+    "id": 2,
+    "name": "GreenLeaf Partners",
+    "contact": {
+      "name": "Michael Chen",
+      "email": "michael.chen@greenleaf.com",
+      "phone": "+1-404-555-0193"
+    },
+    "address": {
+      "street": "22 Pine Avenue",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30303"
+    },
+    "industry": "Finance",
+    "status": "Inactive",
+    "createdAt": "2023-07-21T14:12:00Z"
+  },
+  {
+    "id": 3,
+    "name": "BlueSky Marketing",
+    "contact": {
+      "name": "Alicia Gomez",
+      "email": "alicia.gomez@bluesky.com",
+      "phone": "+1-212-555-0107"
+    },
+    "address": {
+      "street": "456 Madison Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10022"
+    },
+    "industry": "Marketing",
+    "status": "Active",
+    "createdAt": "2024-02-05T11:00:00Z"
+  }
+]
