@@ -1,5 +1,6 @@
-import { fetchData } from "./repositories/repository.mjs";
+import { TestimonialsCard } from "./components/TestimonialsCard.mjs";
+import { getFreelancesTestimonies } from "./services/userService.mjs";
 
-const myData = await fetchData("../src/data/client.json");
+const testimonies = await getFreelancesTestimonies();
 
-console.log(myData);
+console.log(testimonies);

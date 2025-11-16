@@ -1,0 +1,107 @@
+{
+  "freelances":[
+  {
+    "id": "f1",
+    "fullName": "John Doe",
+    "email": "john@example.com",
+    "profileImage": "../assets/images/freelancer1.png",
+    "bio": "UI/UX designer passionate about clean and functional design.",
+    "job": "UI/UX Designer",
+    "skills": ["UI Design", "Figma", "Prototyping"],
+    "rating": 4.7,
+    "reviewsCount": 32,
+    "createdAt": "2025-10-20T14:32:00Z"
+  },
+  {
+    "id": "f2",
+    "fullName": "Maria Lopez",
+    "email": "maria@example.com",
+    "profileImage": "../assets/images/freelancer1.png",
+    "bio": "Full-stack developer specialized in Node.js and React.",
+    "job": "Full-Stack Developer",
+    "skills": ["JavaScript", "React", "Node.js"],
+    "rating": 4.9,
+    "reviewsCount": 54,
+    "createdAt": "2025-09-18T10:00:00Z"
+  },
+  {
+    "id": "f3",
+    "fullName": "Adam Smith",
+    "email": "adam@example.com",
+    "profileImage": "../assets/images/freelancer1.png",
+    "bio": "Creative graphic designer helping brands stand out.",
+    "job": "Graphic Designer",
+    "skills": ["Photoshop", "Illustrator", "Logo Design"],
+    "rating": 4.5,
+    "reviewsCount": 21,
+    "createdAt": "2025-11-01T08:45:00Z"
+  },
+  {
+    "id": "f4",
+    "fullName": "Sophia Garcia",
+    "email": "sophia@example.com",
+    "profileImage": "../assets/images/freelancer1.png",
+    "bio": "Freelance content writer crafting SEO-friendly blogs.",
+    "job": "Content Writer",
+    "skills": ["Copywriting", "SEO", "Editing"],
+    "rating": 4.6,
+    "reviewsCount": 18,
+    "createdAt": "2025-08-30T16:20:00Z"
+  },
+  {
+    "id": "f5",
+    "fullName": "Noah Kim",
+    "email": "noah@example.com",
+    "profileImage": "../assets/images/freelancer1.png",
+    "bio": "Mobile app developer building Android and iOS experiences.",
+    "job": "Mobile App Developer",
+    "skills": ["Flutter", "Dart", "Firebase"],
+    "rating": 4.9,
+    "reviewsCount": 46,
+    "createdAt": "2025-06-14T10:30:00Z"
+  }
+]
+,
+"clients": [
+  {
+    "id": "c1",
+    "fullName": "Emily Chen",
+    "email": "emily@example.com",
+    "profileImage": "https://example.com/profile/emily.jpg",
+    "bio": "Startup founder focused on building strong brand identities.",
+    "createdAt": "2025-10-10T11:12:00Z"
+  },
+  {
+    "id": "c2",
+    "fullName": "Michael Brown",
+    "email": "michael@example.com",
+    "profileImage": "https://example.com/profile/michael.jpg",
+    "bio": "Entrepreneur seeking talented developers for app projects.",
+    "createdAt": "2025-09-22T09:15:00Z"
+  },
+  {
+    "id": "c3",
+    "fullName": "Olivia Davis",
+    "email": "olivia@example.com",
+    "profileImage": "https://example.com/profile/olivia.jpg",
+    "bio": "Small business owner hiring freelancers for digital campaigns.",
+    "createdAt": "2025-09-05T12:50:00Z"
+  },
+  {
+    "id": "c4",
+    "fullName": "Ava Johnson",
+    "email": "ava@example.com",
+    "profileImage": "https://example.com/profile/ava.jpg",
+    "bio": "Marketing manager hiring for ongoing design and web projects.",
+    "createdAt": "2025-10-28T17:10:00Z"
+  },
+  {
+    "id": "c5",
+    "fullName": "Liam Patel",
+    "email": "liam.client@example.com",
+    "profileImage": "https://example.com/profile/liamc.jpg",
+    "bio": "Tech consultant looking for experienced freelance designers.",
+    "createdAt": "2025-07-19T14:00:00Z"
+  }
+]
+}

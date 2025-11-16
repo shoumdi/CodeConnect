@@ -1,0 +1,159 @@
+[
+{
+  "conversation_id": "conv_001",
+  "messages": [
+    {
+      "message_id": "msg_2195",
+      "sender_id": "freelancer_001",
+      "content": "Hi Sarah! Here are the first 3 logo concepts. Let me know what you think.",
+      "timestamp": "2025-01-14T09:20:12Z"
+    },
+    {
+      "message_id": "msg_2196",
+      "sender_id": "client_302",
+      "content": "Wow! I love the second concept. Can we try it with a more modern font?",
+      "timestamp": "2025-01-14T09:26:40Z"
+    },
+    {
+      "message_id": "msg_2197",
+      "sender_id": "freelancer_001",
+      "content": "Of course! I'll prepare a few font variations.",
+      "timestamp": "2025-01-14T09:31:02Z"
+    },
+    {
+      "message_id": "msg_2198",
+      "sender_id": "freelancer_001",
+      "content": "Here are 4 font options. Option 3 is closest to your previous style preferences.",
+      "timestamp": "2025-01-14T10:10:22Z"
+    },
+    {
+      "message_id": "msg_2201",
+      "sender_id": "client_302",
+      "content": "Can you make the gold color a bit brighter?",
+      "timestamp": "2025-01-14T10:45:12Z"
+    }
+  ]
+},
+{
+  "conversation_id": "conv_002",
+  "messages": [
+    {
+      "message_id": "msg_5515",
+      "sender_id": "client_201",
+      "content": "Hey, just checking in—any updates on the dashboard?",
+      "timestamp": "2025-01-14T07:33:01Z"
+    },
+    {
+      "message_id": "msg_5516",
+      "sender_id": "freelancer_001",
+      "content": "Yes! I've implemented the summary widgets. Working on the charts next.",
+      "timestamp": "2025-01-14T08:00:22Z"
+    },
+    {
+      "message_id": "msg_5517",
+      "sender_id": "client_201",
+      "content": "Perfect. Let me know if you need anything else from me.",
+      "timestamp": "2025-01-14T08:03:11Z"
+    },
+    {
+      "message_id": "msg_5520",
+      "sender_id": "freelancer_001",
+      "content": "Here's the updated dashboard prototype.",
+      "timestamp": "2025-01-14T09:20:03Z"
+    }
+  ]
+},
+{
+  "conversation_id": "conv_003",
+  "messages": [
+    {
+      "message_id": "msg_8805",
+      "sender_id": "client_118",
+      "content": "Morning! We're seeing slower load times on the admin panel.",
+      "timestamp": "2025-01-13T15:10:40Z"
+    },
+    {
+      "message_id": "msg_8806",
+      "sender_id": "freelancer_001",
+      "content": "Got it. I'll run diagnostics and check if the cache is clearing properly.",
+      "timestamp": "2025-01-13T15:22:10Z"
+    },
+    {
+      "message_id": "msg_8807",
+      "sender_id": "client_118",
+      "content": "Thanks. Let us know if you need server access.",
+      "timestamp": "2025-01-13T15:30:18Z"
+    },
+    {
+      "message_id": "msg_8811",
+      "sender_id": "freelancer_001",
+      "content": "I found some timeout spikes between 2–4 AM. Likely a backup process slowing things.",
+      "timestamp": "2025-01-13T17:40:30Z"
+    },
+    {
+      "message_id": "msg_8812",
+      "sender_id": "client_118",
+      "content": "The server logs show a timeout issue. Can you check?",
+      "timestamp": "2025-01-13T17:55:40Z"
+    }
+  ]
+},
+{
+  "conversation_id": "conv_004",
+  "messages": [
+    {
+      "message_id": "msg_3338",
+      "sender_id": "freelancer_001",
+      "content": "Hi Emily! I’ve drafted 3 ideas for the February campaign.",
+      "timestamp": "2025-01-13T08:40:12Z"
+    },
+    {
+      "message_id": "msg_3339",
+      "sender_id": "client_511",
+      "content": "Love them! The second one is especially good.",
+      "timestamp": "2025-01-13T09:02:45Z"
+    },
+    {
+      "message_id": "msg_3340",
+      "sender_id": "freelancer_001",
+      "content": "Great! I'll start preparing content for that theme.",
+      "timestamp": "2025-01-13T09:30:14Z"
+    },
+    {
+      "message_id": "msg_3344",
+      "sender_id": "client_511",
+      "content": "Looks great! I'll release the next milestone payment now.",
+      "timestamp": "2025-01-13T11:10:22Z"
+    }
+  ]
+},
+{
+  "conversation_id": "conv_005",
+  "messages": [
+    {
+      "message_id": "msg_6003",
+      "sender_id": "client_402",
+      "content": "The new home screen layout looks clean. Nice work!",
+      "timestamp": "2025-01-12T18:40:55Z"
+    },
+    {
+      "message_id": "msg_6004",
+      "sender_id": "freelancer_001",
+      "content": "Thank you! I'm working on the settings UI next.",
+      "timestamp": "2025-01-12T18:50:10Z"
+    },
+    {
+      "message_id": "msg_6005",
+      "sender_id": "client_402",
+      "content": "Sounds good. Can we simplify the profile section too?",
+      "timestamp": "2025-01-12T19:10:33Z"
+    },
+    {
+      "message_id": "msg_6007",
+      "sender_id": "client_402",
+      "content": "Could you also send the dark mode version?",
+      "timestamp": "2025-01-12T19:22:10Z"
+    }
+  ]
+}
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "conversation_id": "conv_001",
+    "title": "Sarah Johnson",
+    "avatar_url": "default_pfp.png",
+    "last_message": {
+      "message_id": "msg_2201",
+      "sender_id": "client_302",
+      "content_preview": "Can you make the gold color a bit brighter?",
+      "timestamp": "2025-01-14T10:45:12Z"
+    },
+    "unread_count": 1,
+    "last_read_message_id": "msg_2198",
+    "updated_at": "2025-01-14T10:45:12Z"
+  },
+  {
+    "conversation_id": "conv_002",
+    "title": "Michael Lee",
+    "avatar_url": "default_pfp.png",
+    "last_message": {
+      "message_id": "msg_5520",
+      "sender_id": "freelancer_001",
+      "content_preview": "You: Here's the updated dashboard prototype.",
+      "timestamp": "2025-01-14T09:20:03Z"
+    },
+    "unread_count": 0,
+    "last_read_message_id": "msg_5520",
+    "updated_at": "2025-01-14T09:20:03Z"
+  },
+  {
+    "conversation_id": "conv_003",
+    "title": "RisingTech Agency",
+    "avatar_url": "default_pfp.png",
+    "last_message": {
+      "message_id": "msg_8812",
+      "sender_id": "client_118",
+      "content_preview": "The server logs show a timeout issue. Can you check?",
+      "timestamp": "2025-01-13T17:55:40Z"
+    },
+    "unread_count": 4,
+    "last_read_message_id": "msg_8807",
+    "updated_at": "2025-01-13T17:55:40Z"
+  },
+  {
+    "conversation_id": "conv_004",
+    "title": "Emily Carter",
+    "avatar_url": "default_pfp.png",
+    "last_message": {
+      "message_id": "msg_3344",
+      "sender_id": "client_511",
+      "content_preview": "Looks great! I'll release the next milestone payment now.",
+      "timestamp": "2025-01-13T11:10:22Z"
+    },
+    "unread_count": 0,
+    "last_read_message_id": "msg_3344",
+    "updated_at": "2025-01-13T11:10:22Z"
+  },
+  {
+    "conversation_id": "conv_005",
+    "title": "David Miller",
+    "avatar_url": "default_pfp.png",
+    "last_message": {
+      "message_id": "msg_6007",
+      "sender_id": "client_402",
+      "content_preview": "Could you also send the dark mode version?",
+      "timestamp": "2025-01-12T19:22:10Z"
+    },
+    "unread_count": 2,
+    "last_read_message_id": "msg_6005",
+    "updated_at": "2025-01-12T19:22:10Z"
+  }
+]

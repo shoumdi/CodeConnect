@@ -1,0 +1,107 @@
+[
+  {
+    "freelancerId": "f1",
+    "reviews": [
+      {
+        "id": "1",
+        "authorName": "Alice",
+        "projectTitle": "Logo Design",
+        "rating": 4.8,
+        "content": "Amazing work! The logo perfectly represents my brand.",
+        "createdAt": 1696156800000
+      },
+      {
+        "id": "2",
+        "authorName": "Martha",
+        "projectTitle": "Brand Identity",
+        "rating": 4.6,
+        "content": "Quick to understand what we needed, excellent creativity.",
+        "createdAt": 1701340800000
+      }
+    ]
+  },
+  {
+    "freelancerId": "f2",
+    "reviews": [
+      {
+        "id": "3",
+        "authorName": "Ben",
+        "projectTitle": "Website Redesign",
+        "rating": 4.5,
+        "content": "Very professional and attentive to details. Delivered on time.",
+        "createdAt": 1698748800000
+      },
+      {
+        "id": "4",
+        "authorName": "Sophie",
+        "projectTitle": "Landing Page Optimization",
+        "rating": 4.9,
+        "content": "The new design increased conversions by 30%! Great work.",
+        "createdAt": 1706524800000
+      }
+    ]
+  },
+  {
+    "freelancerId": "f3",
+    "reviews": [
+      {
+        "id": "5",
+        "authorName": "Carla",
+        "projectTitle": "Social Media Marketing",
+        "rating": 3.9,
+        "content": "Good results overall, communication could have been better.",
+        "createdAt": 1701340800000
+      },
+      {
+        "id": "6",
+        "authorName": "Liam",
+        "projectTitle": "Instagram Growth Campaign",
+        "rating": 4.3,
+        "content": "Consistent updates and creative ideas. Grew our audience nicely.",
+        "createdAt": 1711708800000
+      }
+    ]
+  },
+  {
+    "freelancerId": "f4",
+    "reviews": [
+      {
+        "id": "7",
+        "authorName": "David",
+        "projectTitle": "Mobile App UI/UX",
+        "rating": 5.0,
+        "content": "Exceptional design sense! Will definitely hire again.",
+        "createdAt": 1703932800000
+      },
+      {
+        "id": "8",
+        "authorName": "Noah",
+        "projectTitle": "Dashboard Interface Design",
+        "rating": 4.7,
+        "content": "Beautiful and functional layouts, great collaboration.",
+        "createdAt": 1716892800000
+      }
+    ]
+  },
+  {
+    "freelancerId": "f5",
+    "reviews": [
+      {
+        "id": "9",
+        "authorName": "Ella",
+        "projectTitle": "Video Editing",
+        "rating": 4.2,
+        "content": "Creative and responsive. Delivered multiple versions promptly.",
+        "createdAt": 1706524800000
+      },
+      {
+        "id": "10",
+        "authorName": "Leo",
+        "projectTitle": "YouTube Ad Editing",
+        "rating": 4.4,
+        "content": "Clean transitions and great pacing, very professional.",
+        "createdAt": 1719484800000
+      }
+    ]
+  }
+]

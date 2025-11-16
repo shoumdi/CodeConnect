@@ -5,8 +5,5 @@ class Client extends User {
     constructor(parameters) {
         
     }
-    allowedToSubmitMission(){
-        return this.name === "client";
-    }
-
+   
 }
